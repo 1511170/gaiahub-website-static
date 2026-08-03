@@ -4,15 +4,15 @@
 
 Gaia Hub es la infraestructura para una civilización que regenera. No es una empresa, ni una plataforma, ni una utopía. Es un organismo vivo diseñado para coordinar la regeneración planetaria a través de tres sistemas interdependientes:
 
-1. **Gaia Commons** — El alma del ecosistema. Gobernanza, principios y capital estratégico que custodia los valores y distribuye recursos hacia la regeneración.
-2. **Gaia Hub** — El sistema nervioso. Plataforma digital que conecta miles de actores regenerativos en un solo ecosistema navegable con matchmaking inteligente.
+1. **Gaia Union** — El alma del ecosistema. Gobernanza, principios y capital estratégico que custodia los valores y distribuye recursos hacia la regeneración.
+2. **Gaia OS** — El sistema nervioso. Plataforma digital que conecta miles de actores regenerativos en un solo ecosistema navegable con matchmaking inteligente.
 3. **Gaia Market** — El sistema circulatorio. Mercado donde cada transacción nutre el ecosistema, moviendo capital hacia donde la vida más lo necesita.
 
 ## Páginas Principales
 
 - https://www.gaiaunion.com/ — Inicio del ecosistema regenerativo
-- https://www.gaiaunion.com/commons/ — Gaia Commons: gobernanza y capital estratégico
-- https://www.gaiaunion.com/hub/ — Gaia Hub: plataforma de coordinación y matchmaking
+- https://www.gaiaunion.com/union/ — Gaia Union: gobernanza y capital estratégico
+- https://www.gaiaunion.com/hub/ — Gaia OS: plataforma de coordinación y matchmaking
 - https://www.gaiaunion.com/market/ — Gaia Market: mercado regenerativo
 - https://www.gaiaunion.com/vision/ — Visión de una civilización que regenera
 - https://www.gaiaunion.com/confederation/ — Confederación de territorios autónomos
@@ -39,7 +39,6 @@ El sitio está disponible en inglés (en) y español (es). La versión en españ
 - WhatsApp (ES): https://whatsapp.com/channel/0029VbCY4kLIiRozv7gGVN3L
 - WhatsApp (EN): https://chat.whatsapp.com/Le3VfSzIlQcKq8BUt8zJaZ
 - WhatsApp directo: https://api.whatsapp.com/send/?phone=573138733272
-- LinkedIn: https://www.linkedin.com/company/gaia-commons/
 - Facebook: https://www.facebook.com/GaiaHub
 - Instagram (ES): https://www.instagram.com/gaia.todossomosgaia/
 - Instagram (EN): https://www.instagram.com/gaiahub.wearegaia/
