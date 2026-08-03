@@ -8,3 +8,14 @@
 /commons/    /union/    301
 /es/commons  /es/union  301
 /es/commons/ /es/union/ 301
+
+# Gaia Vision pasó a llamarse Gaia Economy y EcoHabitats a Gaia BioHabitats
+# (agosto de 2026). Mismo motivo: las rutas viejas estaban indexadas.
+/vision           /economy          301
+/vision/          /economy/         301
+/es/vision        /es/economy       301
+/es/vision/       /es/economy/      301
+/ecohabitats      /biohabitats      301
+/ecohabitats/     /biohabitats/     301
+/es/ecohabitats   /es/biohabitats   301
+/es/ecohabitats/  /es/biohabitats/  301
