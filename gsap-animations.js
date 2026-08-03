@@ -32,13 +32,17 @@ function initGSAP() {
   // Stagger Children
   gsap.utils.toArray('.gsap-stagger').forEach((container) => {
     const children = container.children;
+    // El retardo total se limita a 1.5 s: con 0.12 s fijos, una rejilla grande
+    // (p. ej. las 42 fichas de /team/) dejaba las últimas filas invisibles más
+    // de cinco segundos, cuando el usuario ya ha pasado de largo.
+    const stagger = Math.min(0.12, 1.5 / Math.max(children.length, 1));
     gsap.fromTo(children,
       { y: 50, opacity: 0 },
       {
         y: 0,
         opacity: 1,
         duration: 0.7,
-        stagger: 0.12,
+        stagger,
         ease: 'power3.out',
         scrollTrigger: {
           trigger: container,
